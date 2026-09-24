@@ -1,0 +1,6 @@
+storage_state.json
+*.db
+.env
+__pycache__/
+.venv/
+simulados/
